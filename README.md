@@ -1,2 +1,3 @@
-# vue-without-bundler-boilerplate
-Simple Vue 3 without bundler boilerplate
+# Vue 3 Without Bundler
+
+> Vue 3 Without Bundler
